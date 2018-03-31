@@ -1,4 +1,4 @@
-# Awesome-Quantitative-Bitcoin
+# Understand Bitcoin as a Quant
 A curated list for understanding bitcoin using quantitative methods
 
 # Table of Contents
