@@ -7,7 +7,7 @@ A curated list for understanding bitcoin using quantitative methods
 
 ### Bitcoin Trading Strategies
 * [Bayesian regression and Bitcoin](https://arxiv.org/pdf/1410.1231.pdf), D Shah, K Zhang, 2014 52nd Annual Allerton Conference on Communication, Control, and Computing (Allerton)  
-..*[Python Implementation](https://github.com/stavros0/bitcoin-price-prediction)
+⋅⋅*[Python Implementation](https://github.com/stavros0/bitcoin-price-prediction)
 * [Trading Bitcoin and Online Time Series Prediction](http://proceedings.mlr.press/v55/amjad16.pdf), M Amjad, D Shah, NIPS 2016 Time Series Workshop, 1-15
 
 ### Bitcoin Mechanism
