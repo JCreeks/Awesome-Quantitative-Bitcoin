@@ -11,3 +11,4 @@ A curated list for understanding bitcoin using quantitative methods
 
 ### Bitcoin Mechanism
 * [Monopoly without a monopolist: An economic analysis of the bitcoin payment system](https://helda.helsinki.fi/bof/bitstream/handle/123456789/14912/BoF_DP_1727.pdf?sequence=1%D1), G Huberman, JD Leshno, CC Moallemi, working paper
+* [Economics of Bitcoin](), S Kou, (unpublished, place holder)
