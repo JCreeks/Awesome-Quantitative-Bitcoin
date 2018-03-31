@@ -4,6 +4,7 @@ A curated list for understanding bitcoin using quantitative methods
 # Table of Contents
 - [Bitcoin Mechanism](#mechanism)
 - [Bitcoin Trading Strategies](#trading-strats)
+- [Bitcoin Data Sourcing](#data-sourcing)
 - [Bitcoin with Deep Learning](#deep-learning)
 
 ### Bitcoin Trading Strategies
@@ -18,3 +19,5 @@ Computational Intelligence, 2015 IEEE Symposium Series on, 1778-1785
 * [Economics of Bitcoin](), S Kou, (unpublished, place holder)
 
 ### Bitcoin with Deep Learning
+
+### Bitcoin Data Sourcing
