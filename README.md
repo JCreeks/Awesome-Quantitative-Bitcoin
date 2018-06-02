@@ -16,7 +16,7 @@ A curated list for understanding bitcoin using quantitative methods
 * [Bitcoin Market Return and Volatility Forecasting Using Transaction Network Flow Properties](https://www.researchgate.net/profile/Steve_Yang2/publication/304289854_Bitcoin_Market_Return_and_Volatility_Forecasting_Using_Transaction_Network_Flow_Properties/links/5844d38408ae8e63e6272098/Bitcoin-Market-Return-and-Volatility-Forecasting-Using-Transaction-Network-Flow-Properties.pdf), SY Yang, J Kim
 Computational Intelligence, 2015 IEEE Symposium Series on, 1778-1785
 * [Monopoly without a monopolist: An economic analysis of the bitcoin payment system](https://helda.helsinki.fi/bof/bitstream/handle/123456789/14912/BoF_DP_1727.pdf?sequence=1%D1), G Huberman, JD Leshno, CC Moallemi, working paper
-* [Economics of Bitcoin](), S Kou, (unpublished, place holder)
+* [Designing Stable Coins](https://duo.network/duo_technical_white_paper.pdf), Y CAO, M DAI, S KOU, L LI, C YANG, (working paper)
 
 ### Bitcoin with Deep Learning
 
